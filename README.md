@@ -18,7 +18,8 @@ Evento exclusivo promovido pela Rocketseat.
 <br>
 
 <p align="center">
-  <img alt="rocketpay" src=".github/project.png" width="100%">
+  <img alt="rocketpay" src=".github/preview.png" width="100%">
+  <img alt="rocketpay" src=".github/mobile.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -38,6 +39,11 @@ O Rocketpay é um componente que simula o formulário de preenchimento de cartã
 ## 🔖 Layout
 
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/gpqavL469k0pPUGOmAQEM9/Explorer-Lab-%2301/duplicate). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+
+## 🔗 Deploy
+
+Acesse o projeto finalizado no link a seguir !!
+[VERCEL](https://explorer-lab-mattbtwxd.vercel.app/)
 
 ## :memo: Licença
 

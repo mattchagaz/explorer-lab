@@ -19,8 +19,9 @@
 
 body {
   font-size: 1.6rem;
-  background: #121214;
-
+  background-image: linear-gradient(to top, #09203f 0%, #537895 100%);
+  background-blend-mode: multiply, multiply;
+  background-blend-mode: multiply;
   display: flex;
   place-items: center;
 

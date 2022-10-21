@@ -48,3 +48,21 @@
     grid-area: C;
   }
 }
+
+/* ANIMATION */
+
+@keyframes fromTop {
+  from {
+    opacity: 0;
+    transform: translateY(-30px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+#app {
+  animation: fromTop .80s .10s backwards;
+}

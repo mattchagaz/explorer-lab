@@ -15,6 +15,7 @@ function setCardType(type) {
     jcb: ["#F43D31", "#78D56F"],
     maestro: ["#3A9BD9", "#CC2131"],
     elo: ["#DDBC67", "#68E4FF"],
+    hipercard: ["#FFFFFF", "#822124"],
     default: ["black", "gray"]
   }
 
@@ -69,6 +70,11 @@ const cardNumberPattern = {
       mask: "0000 0000 0000 0000",
       regex: /(^5[1-5]\d{0,2}|^22[2-9]\d|^2[3-7]\d{0,2})\d{0,12}/,
       cardType: "mastercard"
+    },
+    {
+      mask: "0000 0000 0000 0000",
+      regex: /^(606282\d{10}(\d{3})?)|(3841\d{15})$/,
+      cardType: "hipercard"
     },
     {
       mask: "0000 0000 0000 0000",

@@ -19,8 +19,11 @@ Evento exclusivo promovido pela Rocketseat.
 
 <p align="center">
   <img alt="rocketpay" src=".github/preview.png" width="100%">
-  <img alt="rocketpay" src=".github/mobile.png" width="100%">
 </p>
+
+<p align="center">
+  <img alt="rocketpay" src=".github/mobile.png" width="60%">
+  </p>
 
 ## 🚀 Tecnologias
 

@@ -59,13 +59,16 @@ form button {
   font-weight: 700;
   font-size: 1.4rem;
   line-height: 1.7rem;
-  color: #121212;
+  color: white;
 
   transition: filter 0.3s;
 }
 
 form button:hover {
   filter: brightness(1.2);
+  box-shadow: 2px 1px 10px #3d7a8d;
+  transition: .45s;
+  color: rgb(36, 36, 36);
 }
 
 form input:hover {

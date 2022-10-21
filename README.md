@@ -18,7 +18,7 @@ Evento exclusivo promovido pela Rocketseat.
 <br>
 
 <p align="center">
-  <img alt="rocketpay desktop" src=".github/preview.png" width="100%">
+  <img alt="rocketpay desktop" src=".github/preview-desktop.png" width="100%">
 </p>
 
 <p align="center">

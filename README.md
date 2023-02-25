@@ -46,7 +46,7 @@ Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figm
 ## 🔗 Deploy
 
 Acesse o projeto finalizado no link a seguir !!
-[VERCEL](https://explorer-lab-mattbtwxd.vercel.app/)
+[VERCEL](https://explorer-lab-mattchagaz.vercel.app/)
 
 ## :memo: Licença
 
